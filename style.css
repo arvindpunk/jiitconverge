@@ -14,7 +14,7 @@ body {
 }
 
 .top {
-	background-color: #52609e;
+	background-color: #e37222;
 	height: 50vh;
 	display: flex;
 	flex-direction: column;
@@ -22,7 +22,7 @@ body {
 }
 
 .bottom {
-	background-color: #28255e;
+	background-color: #dddddd;
 	height: 50vh;
 	display: flex;
 	flex-direction: column;
