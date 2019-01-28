@@ -1,0 +1,41 @@
+@font-face {
+  font-family: SlimJoe;
+  src: url(Slim_Joe.otf);
+}
+
+body {
+	margin: 0;
+	color: #ffffff;
+	font-family: SlimJoe;
+}
+
+.container {
+	margin: 0;
+}
+
+.top {
+	background-color: #52609e;
+	height: 50vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.bottom {
+	background-color: #28255e;
+	height: 50vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
