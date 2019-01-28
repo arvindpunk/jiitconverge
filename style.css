@@ -5,7 +5,6 @@
 
 body {
 	margin: 0;
-	color: #ffffff;
 	font-family: SlimJoe;
 }
 
@@ -14,7 +13,8 @@ body {
 }
 
 .top {
-	background-color: #e37222;
+	background-color: #ff9730;
+	color: #ffffff;
 	height: 50vh;
 	display: flex;
 	flex-direction: column;
@@ -22,7 +22,8 @@ body {
 }
 
 .bottom {
-	background-color: #dddddd;
+	background-color: #eeeeee;
+	color: #777777;
 	height: 50vh;
 	display: flex;
 	flex-direction: column;
